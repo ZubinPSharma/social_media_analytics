@@ -7,7 +7,7 @@ access_key = ''
 access_secret = ''
 credentials = {'consumer_key': api_key, 'consumer_secret': api_secret}
 user_id = ''
-OPENAI_API_KEY = ''
+OPENAI_API_KEY = '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'
 
 #OPENAI 
 openai.api_key = OPENAI_API_KEY
